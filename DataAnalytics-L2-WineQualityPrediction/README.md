@@ -27,7 +27,6 @@ Train and compare multiple classification models (Random Forest, SGD, SVC) to pr
 - matplotlib
 - seaborn
 - Jupyter Notebook
-- Google Colab 
 
 ## Author
 Satyam Kumar Singh  

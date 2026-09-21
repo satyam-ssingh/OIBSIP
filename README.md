@@ -229,4 +229,4 @@ To run locally instead: place the dataset in the same directory as the notebook 
 
 ## Author
 
-**Satyam Singh**
+**Satyam Kumar Singh**
